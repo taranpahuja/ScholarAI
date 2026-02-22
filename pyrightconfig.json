@@ -1,0 +1,8 @@
+{
+  "extraPaths": ["./"],
+  "typeCheckingMode": "off",
+  "reportMissingImports": "none",
+  "reportOptionalMemberAccess": "none",
+  "reportAttributeAccessIssue": "none",
+  "reportArgumentType": "none"
+}
